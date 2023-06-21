@@ -2,7 +2,7 @@
 - 👀 I’m interested in python releted projects 
 - 🌱 I’m currently studying computer science and engineering 
 - 💞️ I’m looking to collaborate on any python related projects 
-- 📫 reach me at 
+- 📫 reach me at https://www.linkedin.com/in/vinitha-g-684a95265/
 
 <!---
 Vinithagowri/Vinithagowri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
