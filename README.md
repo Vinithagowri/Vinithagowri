@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinithagowri
+- 👋 Hi, I’m @Vinitha G
 - 👀 I’m interested in python releted projects 
 - 🌱 I’m currently studying computer science and engineering 
 - 💞️ I’m looking to collaborate on any python related projects 
